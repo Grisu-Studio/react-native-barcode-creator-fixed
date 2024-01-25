@@ -1,4 +1,6 @@
-# React Native Barcode Creator
+# React Native Barcode Creator Fixed
+
+**Note:** This repository is a fork of the [react-native-barcode-creator](https://github.com/VittoriDavide/react-native-barcode-creator) project. I decided to create this fork due to an unresolved issue and a pending pull request ([PR #13](https://github.com/VittoriDavide/react-native-barcode-creator/pull/13)) that I submitted. Since December 19, 2023, the original issue ([#10](https://github.com/VittoriDavide/react-native-barcode-creator/issues/10)) had not been addressed. Therefore, I published this repository with changes that resolve the problem. Additionally, I performed linting on `src/index.tsx` and `example/src/App.tsx` to improve code quality.
 
 Component to generate QRCode, Code128, PDF417, AZTEC, EAN13 or UPCA natively for react native.
 
