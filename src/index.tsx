@@ -8,10 +8,10 @@ type BarcodeCreatorProps = {
   style: ViewStyle;
 };
 
-export const BarcodeCreatorViewManager = requireNativeComponent<BarcodeCreatorProps>(
-'BarcodeCreatorView'
-);
+export const BarcodeCreatorViewManager =
+  requireNativeComponent<BarcodeCreatorProps>('BarcodeCreatorView');
 
 export default BarcodeCreatorViewManager;
 
-export const BarcodeFormat = NativeModules.BarcodeCreatorViewManager.getConstants();
+export const BarcodeFormat =
+  NativeModules.BarcodeCreatorViewManager.getConstants();
