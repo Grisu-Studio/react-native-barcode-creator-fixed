@@ -1,6 +1,6 @@
 {
   "name": "@grisu.co/react-native-barcode-creator-fixed",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Component to generate QRCode, Code128, PDF417, AZTEC, EAN-13 and UPC-A natively for react native.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -37,7 +37,7 @@
     "android",
     "barcode"
   ],
-  "repository": "https://github.com/VittoriDavide/react-native-barcode-creator",
+  "repository": "https://github.com/Grisu-Studio/react-native-barcode-creator-fixed",
   "author": "David Vittori <me@vittoridavid.com> (https://www.vittoridavid.com)",
   "license": "MIT",
   "bugs": {
