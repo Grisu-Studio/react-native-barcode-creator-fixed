@@ -38,6 +38,7 @@
     "barcode"
   ],
   "repository": "https://github.com/Grisu-Studio/react-native-barcode-creator-fixed",
+  "homepage": "https://github.com/Grisu-Studio/react-native-barcode-creator-fixed",
   "author": "David Vittori <me@vittoridavid.com> (https://www.vittoridavid.com)",
   "license": "MIT",
   "bugs": {
